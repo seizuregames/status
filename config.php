@@ -13,7 +13,7 @@ Once done, save and check the widget, magic will happen.
 */
 
 //Server IP
-$ip = "localhost";
+$ip = "107.188.196.26";
 
 //Server Port
 $port = "25565"; 
